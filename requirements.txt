@@ -1,0 +1,13 @@
+supabase
+anthropic
+openai
+google-generativeai
+tweepy
+schedule
+fastapi
+uvicorn
+jinja2
+python-dotenv
+httpx
+asyncio
+pytest
